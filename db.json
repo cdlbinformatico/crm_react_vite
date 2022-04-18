@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Renito",
+      "empresa": "Lo Renito",
+      "email": "ren@ito.com",
+      "telefono": 3456789,
+      "notas": "cotización abril",
+      "id": 1
+    },
+    {
+      "nombre": "AAA",
+      "empresa": "AAA Co",
+      "email": "aaa@aaa.aaaa",
+      "telefono": 444444444,
+      "notas": "AAAAAAAA",
+      "id": 2
+    },
+    {
+      "nombre": "BB",
+      "empresa": "BB",
+      "email": "bb@bb.bb",
+      "telefono": 88,
+      "notas": "BB",
+      "id": 3
+    },
+    {
+      "nombre": "Tomahawk",
+      "empresa": "LoliCo",
+      "email": "ntr@con.jp",
+      "telefono": 5678678,
+      "notas": "kkk",
+      "id": 4
+    }
+  ]
+}
